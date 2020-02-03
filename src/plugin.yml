@@ -1,0 +1,5 @@
+name: WaterT11EAPI
+main: tk.t11e.api.main.Main
+version: '1.0'
+description: A API for T11E Bungee plugins
+author: booky10
